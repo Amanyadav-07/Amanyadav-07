@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi there! 👋 I'm Aman Yadav  
+  Hi there! 👋 I'm <a href="https://www.linkedin.com/in/aman-yadav-6b64b6253/" target="_blank">Aman Yadav</a>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
-  🚀 Aspiring Data Scientist | Machine Learning | AI | Data Enthusiast  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7A41D&size=25&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist+%7C+ML+Enthusiast;AI+%26+Data+Science+Explorer;Open+Source+Contributor;Passionate+about+AI-driven+Solutions">
 </p>
 
 ---
@@ -19,18 +19,10 @@
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-1f77b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
+## 🚀 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,jupyter,sklearn,github,git,sql,vscode" />
+</p>
 
 ---
 
@@ -38,27 +30,28 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amanyadav-07&show_icons=true&theme=radical" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyadav-07&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav-07&layout=compact&theme=radical" width="400"/>
 </div>
 
 ---
 
-## 🔥 **Top Languages Used**
+## 🔥 **Profile Visitors**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav-07&layout=compact&theme=radical" width="400"/>
+  <img src="https://komarev.com/ghpvc/?username=Amanyadav-07&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
 ---
 
 ## 🚀 **Projects**
-🔹 **Machine Learning Model Training** *(2024)*  
-- Trained **Linear Regression, Logistic Regression, Decision Tree** achieving high accuracy.  
-- Implemented **feature engineering, hyperparameter tuning, and model evaluation**.  
-- **GitHub Repo:** [ML Models](#)  
+🚀 **Machine Learning Model Training** *(2024)*  
+- 🔹 Trained **Linear Regression, Logistic Regression, Decision Tree** achieving high accuracy.  
+- 🔹 Implemented **feature engineering, hyperparameter tuning, and model evaluation**.  
+- **🔗 GitHub Repo:** [ML Models](#)  
 
-🔹 **Exploratory Data Analysis (EDA)** *(2024)*  
-- Conducted **10+ EDA projects**, analyzing datasets for trends & insights.  
-- Applied **data preprocessing techniques** and created visualizations.  
-- **GitHub Repo:** [EDA Projects](#)  
+📊 **Exploratory Data Analysis (EDA)** *(2024)*  
+- 🔹 Conducted **10+ EDA projects**, analyzing datasets for trends & insights.  
+- 🔹 Applied **data preprocessing techniques** and created visualizations.  
+- **🔗 GitHub Repo:** [EDA Projects](#)  
 
 ---
 
@@ -70,10 +63,10 @@
 
 ## 🌍 **Let's Connect!**
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-yadav-6b64b6253/">
+  <a href="https://www.linkedin.com/in/aman-yadav-6b64b6253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Amanyadav-07">
+  <a href="https://github.com/Amanyadav-07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:amanyadav32327@gmail.com">
