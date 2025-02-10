@@ -36,7 +36,7 @@
 ---
 
 ## 📌 **Let's Connect!**  
-💼 [LinkedIn]([your-link](https://www.linkedin.com/in/aman-yadav-6b64b6253/)
+💼 [LinkedIn] (https://www.linkedin.com/in/aman-yadav-6b64b6253/
 📧 [Email Me] (mailto:amanyadav32327@gmail.com) 
 
 ---
