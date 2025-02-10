@@ -70,7 +70,7 @@
 
 ## 🌍 **Let's Connect!**
 <p align="center">
-  <a href="linkedin.com/in/aman-yadav-6b64b6253/">
+  <a href="[linkedin.com/in/aman-yadav-6b64b6253/](https://www.linkedin.com/in/aman-yadav-6b64b6253/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Amanyadav-07">
