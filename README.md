@@ -56,18 +56,18 @@
 🚀 **Machine Learning Model Training** *(2024)*  
 - 🔹 Trained **Linear Regression, Logistic Regression, Decision Tree** achieving high accuracy.  
 - 🔹 Implemented **feature engineering, hyperparameter tuning, and model evaluation**.  
-- **🔗 GitHub Repo:** [ML Models](#)  
+- **🔗 GitHub Repo:** [https://github.com/Amanyadav-07/Machine-Learning-Projects](#)  
 
 📊 **Exploratory Data Analysis (EDA)** *(2024)*  
 - 🔹 Conducted **10+ EDA projects**, analyzing datasets for trends & insights.  
 - 🔹 Applied **data preprocessing techniques** and created visualizations.  
-- **🔗 GitHub Repo:** [EDA Projects](#)  
+- **🔗 GitHub Repo:** [[EDA Projects](https://github.com/Amanyadav-07/Machine-Learning-Projects/tree/main/EDA)](#)  
 
 ---
 
 ## 🏆 **Certifications**
 - 🏅 **Data Science with Generative AI** – PW Skills *(Ongoing)*  
-- 🎓 **Machine Learning Basics with Python** – Coursera *(2024)*  
+- 🎓 **Data Science Certification Course** – Internshala *(2025)*  
 
 ---
 
