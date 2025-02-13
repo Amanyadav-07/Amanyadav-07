@@ -56,7 +56,7 @@
 🚀 **Machine Learning Model Training** *(2024)*  
 - 🔹 Trained **Linear Regression, Logistic Regression, Decision Tree** achieving high accuracy.  
 - 🔹 Implemented **feature engineering, hyperparameter tuning, and model evaluation**.  
-- **🔗 GitHub Repo:** [https://github.com/Amanyadav-07/Machine-Learning-Projects](#)  
+- **🔗 GitHub Repo:** [[ML Models](https://github.com/Amanyadav-07/Machine-Learning-Projects)](#)  
 
 📊 **Exploratory Data Analysis (EDA)** *(2024)*  
 - 🔹 Conducted **10+ EDA projects**, analyzing datasets for trends & insights.  
