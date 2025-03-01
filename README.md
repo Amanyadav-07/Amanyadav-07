@@ -19,7 +19,6 @@
 
 ---
 
-
 ## 🚀 **Tech Stack & Tools**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -33,7 +32,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
 </p>
 
-
 ---
 
 ## 📊 **GitHub Stats**
@@ -45,29 +43,57 @@
 
 ---
 
-## 🔥 **Profile Visitors**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amanyadav-07&label=Profile%20Views&color=brightgreen&style=flat" />
-</p>
+## 🚀 **Projects & Work**
+### 📊 **Exploratory Data Analysis (EDA)**
+🔹 Conducted **10+ EDA projects**, analyzing datasets for trends & insights.  
+🔹 Applied **data preprocessing techniques** and created visualizations.  
+🔗 **GitHub Repo:** [EDA Projects](https://github.com/Amanyadav-07/Machine-Learning-Projects/tree/main/EDA)
 
----
+### 🏰 **Ensemble Learning Theory Assignment**
+📖 **What’s Inside?**  
+✅ Comprehensive explanations of **ensemble learning techniques**.  
+✅ Covers **Bagging, Boosting, Stacking, Random Forest, and Feature Importance**.  
+✅ Best for understanding **the power of combining multiple models**.  
+🔗 **GitHub Repo:** [Ensemble Learning Theory](https://github.com/Amanyadav-07/YourRepoLink)
 
-## 🚀 **Projects**
-🚀 **Machine Learning Model Training** *(2024)*  
-- 🔹 Trained **Linear Regression, Logistic Regression, Decision Tree** achieving high accuracy.  
-- 🔹 Implemented **feature engineering, hyperparameter tuning, and model evaluation**.  
-- **🔗 GitHub Repo:** [[ML Models](https://github.com/Amanyadav-07/Machine-Learning-Projects)](#)  
+### 🛠️ **Ensemble Learning Practical Assignment**
+🛠️ **Hands-on Learning**  
+✅ Practical **implementation of ensemble techniques**.  
+✅ Covers **Bagging, Random Forest, Stacking**, and **model evaluation**.  
+✅ Demonstrates **real-world applications & feature analysis**.  
+🔗 **GitHub Repo:** [Ensemble Learning Practical](https://github.com/Amanyadav-07/YourRepoLink)
 
-📊 **Exploratory Data Analysis (EDA)** *(2024)*  
-- 🔹 Conducted **10+ EDA projects**, analyzing datasets for trends & insights.  
-- 🔹 Applied **data preprocessing techniques** and created visualizations.  
-- **🔗 GitHub Repo:** [[EDA Projects](https://github.com/Amanyadav-07/Machine-Learning-Projects/tree/main/EDA)](#)  
+### 🚀 **Machine Learning Model Training**
+🚀 **What’s Included?**  
+✅ Trained **Linear Regression, Logistic Regression, Decision Tree** achieving high accuracy.  
+✅ Implemented **feature engineering, hyperparameter tuning, and model evaluation**.  
+🔗 **GitHub Repo:** [ML Models](https://github.com/Amanyadav-07/Machine-Learning-Projects)
+
+### 🚀 **Machine Learning Techniques Covered**
+🎯 **Advanced ML Implementations**  
+✅ **SVM Classifier** with Feature Scaling  
+✅ **Hyperparameter Tuning** using GridSearchCV for SVM  
+✅ **SVM** with Precision-Recall Curve and ROC-AUC Evaluation  
+✅ **Naïve Bayes** for Spam Detection  
+✅ Comparing **Gaussian Naïve Bayes** with and without Laplace Smoothing  
+✅ **SVM** with One-vs-Rest (OvR) and One-vs-One (OvO) Strategies  
+✅ **Naïve Bayes Classifier** Performance with Different Priors  
+✅ **Recursive Feature Elimination (RFE)** for SVM  
+✅ **SVM** with Stratified K-Fold Cross-Validation  
+🔗 **GitHub Repo:** [Machine Learning Techniques](https://github.com/Amanyadav-07/YourRepoLink)
 
 ---
 
 ## 🏆 **Certifications**
 - 🏅 **Data Science with Generative AI** – PW Skills *(Ongoing)*  
 - 🎓 **Data Science Certification Course** – Internshala *(2025)*  
+
+---
+
+## 🔥 **Profile Visitors**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amanyadav-07&label=Profile%20Views&color=brightgreen&style=flat" />
+</p>
 
 ---
 
