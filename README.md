@@ -29,35 +29,20 @@
 
 ## 📂 Featured Projects
 
-### 🧠 **Machine Learning Projects**
+### 🏠 **California House Price Prediction**
+- **Description:** Developed a machine learning model to predict house prices in California using various regression techniques.
+- **Techniques Used:** Elastic Net, Lasso Regression, Random Forest, XGBoost.
+- **Repository:** [California_House_Price_Prediction](https://github.com/Amanyadav-07/California_House_Price_Prediction)
 
-- **SVM & Naïve Bayes Practical and Theory**  
-  Explored Support Vector Machines and Naïve Bayes classifiers through practical implementations and theoretical insights.  
-  *Repository:* [SVM and Naïve Bayes](https://github.com/Amanyadav-07/SVM_and_Naive-bayes)
+### 🧠 **Machine Learning Model Training**
+- **Description:** Implemented regression and classification models, focusing on feature engineering and hyperparameter tuning.
+- **Techniques Used:** Lasso, Ridge, Decision Trees, Grid Search CV, Randomized Search CV.
+- **Repository:** [Machine-Learning-Projects](https://github.com/Amanyadav-07/Machine-Learning-Projects)
 
-- **Machine Learning Model Training**  
-  Developed regression and classification models using techniques like Lasso, Ridge, and Decision Trees. Implemented model optimization using Grid Search CV and Randomized Search CV.  
-  *Repository:* [Machine Learning Projects](https://github.com/Amanyadav-07/Machine-Learning-Projects)
-
-### 📊 **Data Analysis and Visualization**
-
-- **Exploratory Data Analysis (EDA)**  
-  Conducted in-depth analysis on real-world datasets using Pandas, Seaborn, and Matplotlib to uncover patterns and insights.  
-  *Repository:* [EDA Projects](https://github.com/Amanyadav-07/EDA_Projects)
-
-- **Data Visualization Techniques**  
-  Created interactive and static visualizations to represent complex data effectively, aiding in better decision-making processes.  
-  *Repository:* [Data Visualization](https://github.com/Amanyadav-07/Data_Visualization)
-
-### 🛠️ **Tools and Utilities**
-
-- **Python Utility Scripts**  
-  Developed various Python scripts to automate mundane tasks, enhancing productivity and efficiency.  
-  *Repository:* [Python Utilities](https://github.com/Amanyadav-07/Python_Utilities)
-
-- **Data Cleaning Pipelines**  
-  Designed robust data cleaning pipelines to preprocess and clean datasets, ensuring high-quality data for analysis.  
-  *Repository:* [Data Cleaning](https://github.com/Amanyadav-07/Data_Cleaning)
+### 📊 **Exploratory Data Analysis (EDA)**
+- **Description:** Conducted in-depth analysis on real-world datasets to uncover patterns and insights.
+- **Tools Used:** Pandas, Seaborn, Matplotlib.
+- **Repository:** [EDA Projects](https://github.com/Amanyadav-07/EDA_Projects)
 
 ---
 
@@ -81,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/Amanyadav-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/aman-yadav-6b64b6253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/aman-yadav-6b64b6253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:amanyadav32327@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
