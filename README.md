@@ -1,53 +1,46 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aman Kumar Yadav! 🚀
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+  Hi, I'm Aman Kumar Yadav! 🚀
 </h1>
 
 <p align="center">
-  <b>Data Engineer | Machine Learning Enthusiast | AI & Data Science Practitioner</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&width=435&lines=Data+Engineer;Machine+Learning+Enthusiast;AI+%26+Data+Science+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🎯 About Me
-
-- 🎓 Pursuing **B.Sc. in Information Technology** at **PATKAR-VARDE COLLEGE, Mumbai**.
-- 📚 Enrolled in **Data Science with Generative AI** at **PW Skills**.
-- 💡 Passionate about **Machine Learning, AI, and Data Science**.
-- 🔍 Exploring **Deep Learning, NLP, and Computer Vision**.
-- 🤝 Actively contributing to **open-source projects** and collaborating with the community.
-- ⚡ Fun fact: **I turn coffee ☕ into AI models!**
+## 🎯 About Me  
+🚀 Enthusiastic about **Machine Learning, AI, and Data Science**.  
+📚 Currently pursuing **B.Sc. in Information Technology** at **PATKAR-VARDE COLLEGE, Mumbai**.  
+💡 Passionate about **Deep Learning, NLP, and Computer Vision**.  
+🤝 Actively contributing to **open-source projects** and collaborating with the community.  
+☕ Fun fact: **I turn coffee into AI models!**  
 
 ---
 
-## 🚀 Tech Stack & Tools
-
+## 🚀 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,pandas,numpy,sql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,pandas,numpy,sql,git,github,linux,vscode,java,c" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
+### 🧠 **Machine Learning & AI**  
+🔹 **[SVM & Naïve Bayes Practical and Theory](https://github.com/Amanyadav-07/SVM_and_Naive-bayes)** - A deep dive into Support Vector Machines and Naïve Bayes classifiers with practical and theoretical insights.  
+🔹 **[Machine Learning Model Training](https://github.com/Amanyadav-07/Machine-Learning-Projects)** - Built Regression & Classification models using Lasso, Ridge, and Decision Trees.  
 
-### 🏠 **California House Price Prediction**
-- **Description:** Developed a machine learning model to predict house prices in California using various regression techniques.
-- **Techniques Used:** Elastic Net, Lasso Regression, Random Forest, XGBoost.
-- **Repository:** [California_House_Price_Prediction](https://github.com/Amanyadav-07/California_House_Price_Prediction)
+### 📊 **Data Science & Visualization**  
+📊 **[Exploratory Data Analysis (EDA)](https://github.com/Amanyadav-07/EDA_Projects)** - Conducted in-depth EDA on real-world datasets.  
+📉 **[Data Visualization](https://github.com/Amanyadav-07/Data_Visualization)** - Created compelling data visualizations with Python libraries.  
 
-### 🧠 **Machine Learning Model Training**
-- **Description:** Implemented regression and classification models, focusing on feature engineering and hyperparameter tuning.
-- **Techniques Used:** Lasso, Ridge, Decision Trees, Grid Search CV, Randomized Search CV.
-- **Repository:** [Machine-Learning-Projects](https://github.com/Amanyadav-07/Machine-Learning-Projects)
-
-### 📊 **Exploratory Data Analysis (EDA)**
-- **Description:** Conducted in-depth analysis on real-world datasets to uncover patterns and insights.
-- **Tools Used:** Pandas, Seaborn, Matplotlib.
-- **Repository:** [EDA Projects](https://github.com/Amanyadav-07/EDA_Projects)
+### 🛠️ **Utilities & Automation**  
+🚀 **[Python Utility Scripts](https://github.com/Amanyadav-07/Python_Utilities)** - Automated everyday tasks with Python.  
+🧹 **[Data Cleaning Pipelines](https://github.com/Amanyadav-07/Data_Cleaning)** - Preprocessing datasets for machine learning workflows.  
 
 ---
 
-## 🔥 GitHub Stats
-
+## 📈 GitHub Stats & Activity  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyadav-07&theme=radical" alt="GitHub Streak"/>
 </p>
@@ -62,14 +55,23 @@
 
 ---
 
-## 🌍 Connect with Me
-
+## 🌍 Let's Connect  
 <p align="center">
-  <a href="https://github.com/Amanyadav-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/aman-yadav-6b64b6253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:amanyadav32327@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Amanyadav-07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/aman-yadav-6b64b6253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:amanyadav32327@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-<h3 align="center">🚀 Thanks for Visiting My GitHub! Feel Free to Explore My Work! 🚀</h3>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="50">  
+  Thanks for Visiting! Feel Free to Explore My Work!  
+  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="50">
+</h3>
