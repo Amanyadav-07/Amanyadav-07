@@ -7,15 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7A41D&size=25&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist+%7C+ML+Enthusiast;AI+%26+Data+Science+Explorer;Open+Source+Contributor;Passionate+about+AI-driven+Solutions">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
-</p>
-
 ---
 
 ## 📌 **About Me**
 🌱 **Currently Pursuing:** B.Sc. in Information Technology  
-📚 **Enrolled In:** Data Science with Generative AI – PW Skills  
+📖 **Enrolled In:** Data Science with Generative AI – PW Skills  
 💡 Passionate about **Data Science, ML, and AI-driven solutions**  
 🔬 **Exploring:** Deep Learning, NLP & Computer Vision  
 📊 **Actively Working On:** ML Projects & Open-source Contributions  
@@ -25,15 +21,7 @@
 
 ## 🚀 **Tech Stack & Tools**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,sql,git,github,linux,vscode"/>
 </p>
 
 ---
@@ -54,27 +42,38 @@
 
 ---
 
-## 🚀 **Projects**
-### 🚀 **Machine Learning Model Training** *(2024)*  
-- 🔹 Trained **Linear Regression, Logistic Regression, Decision Tree** achieving high accuracy.  
-- 🔹 Implemented **feature engineering, hyperparameter tuning, and model evaluation**.  
-- **🔗 GitHub Repo:** [[ML Models](https://github.com/Amanyadav-07/Machine-Learning-Projects)](#)  
+## 🚀 **Projects & Assignments**
+📂 **Machine Learning Model Training** *(2024)*  
+🔹 Built **Regression & Classification models** using **Lasso, Ridge, Decision Trees**  
+🔹 Optimized models using **Grid Search CV & Randomized Search CV**  
+🔹 **[GitHub Repo](https://github.com/Amanyadav-07/Machine-Learning-Projects)**
 
-### 📊 **Exploratory Data Analysis (EDA)** *(2024)*  
-- 🔹 Conducted **10+ EDA projects**, analyzing datasets for trends & insights.  
-- 🔹 Applied **data preprocessing techniques** and created visualizations.  
-- **🔗 GitHub Repo:** [[EDA Projects](https://github.com/Amanyadav-07/Machine-Learning-Projects/tree/main/EDA)](#)  
+📊 **Exploratory Data Analysis (EDA)** *(2024)*  
+🔹 Conducted **in-depth analysis on real-world datasets**  
+🔹 Used **Pandas, Seaborn, and Matplotlib** for visualization  
+🔹 **[GitHub Repo](https://github.com/Amanyadav-07/Machine-Learning-Projects/tree/main/EDA)**
 
-### 🏡 **Ensemble Learning Theory & Practical Assignments**
-- Covers concepts like **Bagging, Boosting, Stacking, Random Forest, and Feature Importance**.  
-- Practical implementations with **model evaluation, performance comparisons, and feature analysis**.  
-- **🔗 GitHub Repo:** [[Ensemble Learning](https://github.com/Amanyadav-07/Ensemble_Learning)](#)  
+🏰 **Ensemble Learning Theory Assignment**  
+🔹 Theoretical explanations of **Bagging, Boosting, Stacking, Random Forest, and Feature Importance**.  
+🔹 Useful for understanding ensemble models in depth.  
+🔹 **[GitHub Repo](https://github.com/Amanyadav-07/Ensemble_Learning_Theory_Assignment)**
 
-### 🚀 **Advanced Machine Learning Techniques**
-- 🔹 **SVM Classifier** with Feature Scaling & Hyperparameter Tuning.  
-- 🔹 **Naïve Bayes** for Spam Detection & Performance Analysis.  
-- 🔹 **Recursive Feature Elimination (RFE)** & **Stratified K-Fold Cross-Validation**.  
-- **🔗 GitHub Repo:** [[ML Techniques](https://github.com/Amanyadav-07/ML_Techniques)](#)  
+🛠 **Ensemble Learning Practical Assignment**  
+🔹 Hands-on implementation of **Bagging, Random Forest, Stacking, and Model Evaluation**.  
+🔹 Demonstrates performance comparisons and feature analysis.  
+🔹 **[GitHub Repo](https://github.com/Amanyadav-07/Ensemble_Learning_Practical_Assignment)**
+
+🚀 **Machine Learning Techniques Covered:**
+🔹 **SVM Classifier** with Feature Scaling  
+🔹 **Hyperparameter Tuning** using GridSearchCV  
+🔹 **SVM with Precision-Recall Curve & ROC-AUC** Evaluation  
+🔹 **Naïve Bayes for Spam Detection**  
+🔹 **Comparing Gaussian Naïve Bayes** with Laplace Smoothing  
+🔹 **Recursive Feature Elimination (RFE)** for SVM  
+🔹 **Stratified K-Fold Cross-Validation** for SVM  
+🔹 **One-vs-Rest (OvR) and One-vs-One (OvO) Strategies**
+
+🔗 **[GitHub Repo](https://github.com/Amanyadav-07/Machine-Learning-Projects)**
 
 ---
 
@@ -99,4 +98,16 @@
 
 ---
 
-🌟 **If you like my work, consider giving it a star!** 🌟
+## 🎬 **GIF Showcase**
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
+</p>
+
+---
+
+## 💡 **Quote to Inspire**
+_"Data is the new oil, but insight is the refinery."_ 🚀  
+
+---
+
+⭐ **If you like my work, consider giving it a star!** ⭐
