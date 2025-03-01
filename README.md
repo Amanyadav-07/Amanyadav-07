@@ -7,7 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7A41D&size=25&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist+%7C+ML+Enthusiast;AI+%26+Data+Science+Explorer;Open+Source+Contributor;Passionate+about+AI-driven+Solutions">
 </p>
 
-
+<p align="center">
+  <img src="https://your-gif-link-here.gif" width="600">
+</p>
 ---
 
 ## 📌 **About Me**
@@ -17,10 +19,6 @@
 🔬 **Exploring:** Deep Learning, NLP & Computer Vision  
 📊 **Actively Working On:** ML Projects & Open-source Contributions  
 ⚡ Fun fact: *I turn coffee ☕ into AI models!*
-
-<p align="center">
-  <img src="https://your-gif-link-here.gif" width="600">
-</p>
 
 ---
 
