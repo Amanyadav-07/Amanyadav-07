@@ -3,8 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7A41D&size=25&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist+%7C+ML+Enthusiast;AI+%26+Data+Science+Explorer;Open+to+Collaboration!"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" height="300" alt="Professional Data Science GIF"/>
 </p>
 
 ---
@@ -102,13 +105,6 @@ End-to-end Power BI project for airline data: data cleaning, modeling, DAX, and 
   <a href="mailto:amanyadav32327@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🎬 **Professional GIF Showcase**
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" height="300" alt="Professional Data Science GIF"/>
 </p>
 
 ---
