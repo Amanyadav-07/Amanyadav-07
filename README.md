@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7A41D&size=25&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist+%7C+ML+Enthusiast;AI+%26+Data+Science+Explorer;Open+Source+Contributor;Passionate+about+AI-driven+Solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7A41D&size=25&center=true&vCenter=true&width=550&lines=Aspiring+Data+Scientist+%7C+ML+Enthusiast;AI+%26+Data+Science+Explorer;Open+to+Collaboration!"/>
 </p>
 
 ---
@@ -50,43 +50,43 @@
 
 ---
 
-## 🚀 **Projects & Assignments**
-📂 **Machine Learning Model Training** *(2024)*  
-🔹 Built **Regression & Classification models** using **Lasso, Ridge, Decision Trees**  
-🔹 Optimized models using **Grid Search CV & Randomized Search CV**  
-🔹 **[GitHub Repo](https://github.com/Amanyadav-07/Machine-Learning-Projects)**
+## 🚀 **Highlighted Projects**
 
-📊 **Exploratory Data Analysis (EDA)** *(2024)*  
-🔹 Conducted **in-depth analysis on real-world datasets**  
-🔹 Used **Pandas, Seaborn, and Matplotlib** for visualization  
-🔹 **[GitHub Repo](https://github.com/Amanyadav-07/Machine-Learning-Projects/tree/main/EDA)**
+### [EV_Data_Analysis_Project](https://github.com/Amanyadav-07/EV_Data_Analysis_Project)
+A complete data science project on Electric Vehicles, covering data cleaning, outlier detection, correlation analysis, recommendation systems, and hypothesis testing.
 
-🏰 **Ensemble Learning Theory Assignment**  
-🔹 Theoretical explanations of **Bagging, Boosting, Stacking, Random Forest, and Feature Importance**.  
-🔹 Useful for understanding ensemble models in depth.  
-🔹 **[GitHub Repo](https://github.com/Amanyadav-07/Ensemble_Learning_Theory_Assignment)**
+### [DeepLearning-Journey](https://github.com/Amanyadav-07/DeepLearning-Journey)
+A curated collection of Jupyter notebooks documenting my exploration through deep learning: from basics to advanced architectures (CNN, RNN, LSTM, GANs, Transformers).
 
-🛠 **Ensemble Learning Practical Assignment**  
-🔹 Hands-on implementation of **Bagging, Random Forest, Stacking, and Model Evaluation**.  
-🔹 Demonstrates performance comparisons and feature analysis.  
-🔹 **[GitHub Repo](https://github.com/Amanyadav-07/Ensemble_Learning_Practical_Assignment)**
+### [Suicide-Analysis-India-2001-2012](https://github.com/Amanyadav-07/Suicide-Analysis-India-2001-2012)
+Power BI dashboard analyzing suicide trends in India (2001–2012), with demographic patterns, key causes, and yearly trends.
 
-🚀 **Machine Learning Techniques Covered:**
-🔹 **SVM Classifier** with Feature Scaling  
-🔹 **Hyperparameter Tuning** using GridSearchCV  
-🔹 **SVM with Precision-Recall Curve & ROC-AUC** Evaluation  
-🔹 **Naïve Bayes for Spam Detection**  
-🔹 **Comparing Gaussian Naïve Bayes** with Laplace Smoothing  
-🔹 **Recursive Feature Elimination (RFE)** for SVM  
-🔹 **Stratified K-Fold Cross-Validation** for SVM  
-🔹 **One-vs-Rest (OvR) and One-vs-One (OvO) Strategies**
+### [blinkit-metro-analysis](https://github.com/Amanyadav-07/blinkit-metro-analysis)
+Portfolio project using mock data inspired by Blinkit, featuring dashboarding and business analytics.
 
-🔗 **[GitHub Repo](https://github.com/Amanyadav-07/Machine-Learning-Projects)**
+### [Airline-Dashboard-PowerBI](https://github.com/Amanyadav-07/Airline-Dashboard-PowerBI)
+End-to-end Power BI project for airline data: data cleaning, modeling, DAX, and dashboarding with real-time interactivity.
+
+---
+
+## 📂 **More Projects & Assignments**
+
+- **[Machine-Learning-Projects](https://github.com/Amanyadav-07/Machine-Learning-Projects)**  
+  Classic regression, classification, ensemble, and tuning projects with EDA and model evaluation.
+
+- **[Ensemble_Learning_Theory_Assignment](https://github.com/Amanyadav-07/Ensemble_Learning_Theory_Assignment)**  
+  Theoretical explanations of bagging, boosting, stacking, random forest, and feature importance.
+
+- **[Ensemble_Learning_Practical_Assignment](https://github.com/Amanyadav-07/Ensemble_Learning_Practical_Assignment)**  
+  Hands-on implementation of bagging, random forest, stacking, and model evaluation.
+
+- **[EDA Notebooks](https://github.com/Amanyadav-07/Machine-Learning-Projects/tree/main/EDA)**  
+  In-depth exploratory data analysis on real-world datasets.
 
 ---
 
 ## 🏆 **Certifications**
-- 🏅 **Data Science with Generative AI** – PW Skills *(Ongoing)*  
+- 🏅 **Data Science with Generative AI** – PW Skills *(June 2024 - May 2025)*  
 - 🎓 **Data Science Certification Course** – Internshala *(2025)*  
 
 ---
@@ -106,10 +106,9 @@
 
 ---
 
-## 🎬 **GIF Showcase**
+## 🎬 **Professional GIF Showcase**
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400", height = "400">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="400", height = "400">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" height="300" alt="Professional Data Science GIF"/>
 </p>
 
 ---
