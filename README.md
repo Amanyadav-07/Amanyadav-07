@@ -115,16 +115,6 @@ Completed a full Power BI project: data cleaning, modeling, DAX, and interactive
 
 ---
 
-## 🗣️ Testimonials
-
-> "Aman is a quick learner and a great collaborator, always delivering results ahead of schedule."  
-> — Professor, PW Skills
-
-> "Brings energy and fresh ideas to every data science project."  
-> — Peer, Open Source Team
-
----
-
 ## 💡 Quote
 
 > _"Data is the new oil, but insight is the refinery."_
