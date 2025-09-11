@@ -86,7 +86,7 @@ Completed a full Power BI project: data cleaning, modeling, DAX, and interactive
 ## 🏆 Certifications
 
 - **Data Science with Generative AI** – PW Skills *(2024–2025)*
-- **Data Science Certification Course** – Internshala *(Ongoing)*
+- **Data Science Course** – Internshala *(Ongoing)*
 
 ---
 
